@@ -75,6 +75,8 @@ Beam current	 : 164 mV
 Repeller voltage : 42 V
 
 ![WhatsApp Image 2025-11-15 at 20 40 51_ac0e7fed](https://github.com/user-attachments/assets/48aa1797-15de-4f60-a62e-bde970f74dd0)
+![WhatsApp Image 2025-11-15 at 20 40 51_6814ede1](https://github.com/user-attachments/assets/5ac21b9a-4149-4510-a3cd-5cc8bc1dd413)
+
 
 	V1 : 
 
